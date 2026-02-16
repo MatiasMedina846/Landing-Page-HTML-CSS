@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biografía Diego Armando Maradona</title>
+    <title>Responsive Landing Page</title>
 </head>
 <div class="contenedor">
     <h1 id="seccion4">Biografía de Diego Armando Maradona</h1>
